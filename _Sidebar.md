@@ -2,7 +2,7 @@
 - [Code Base](https://github.com/AmcorPackaging/LiquiForm/wiki/Code-Base)
   - [Setup](https://github.com/AmcorPackaging/LiquiForm/wiki/setup)
 - [Contentful CMS](https://github.com/AmcorPackaging/LiquiForm/wiki/Contentful-CMS)
-  - [Access](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-access)
+  - [Roles](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Roles)
   - [Structure](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Structure)
   - [Editor Usage](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Editor-Usage)
     - [Adding Content](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Adding-Content)

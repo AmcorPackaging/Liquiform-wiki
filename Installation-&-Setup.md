@@ -1,0 +1,1 @@
+In order to install and setup the project in your local machine, please follow the instructions in the [Readme.md](https://github.com/AmcorPackaging/LiquiForm/blob/develop/README-setup-conf.md) file.

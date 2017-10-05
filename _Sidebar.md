@@ -1,5 +1,6 @@
 - [Home](https://github.com/AmcorPackaging/LiquiForm/wiki)
 - [Code Base](https://github.com/AmcorPackaging/LiquiForm/wiki/Code-Base)
+  - [Setup]((https://github.com/AmcorPackaging/LiquiForm/wiki/setup)
 - [Contentful CMS](https://github.com/AmcorPackaging/LiquiForm/wiki/Contentful-CMS)
   - Access
   - Structure

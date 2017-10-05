@@ -4,3 +4,6 @@ You would need permits from one of the administrators to access the space, edit 
 Space Settings: 
  - space name: `LiquiForm`
  - space Id: `k1sf1iwtb07y`
+
+Please contact the project owner to be granted that access. 
+You can find the contact in the [support page]().

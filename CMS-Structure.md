@@ -9,8 +9,8 @@ Each space has a content model that represents the content types you create.
 A content type consists of a set of fields and other information.
 
 Our Content Types:
-[Content Types](https://github.com/AmcorPackaging/LiquiForm/wiki/images/contentTypes.png)
+  ![Content Types](https://github.com/AmcorPackaging/LiquiForm/wiki/images/contentTypes.png)
 
 ## Content & Entries
 Each Content Type has Content, organized by Entries. For example, the `headerContent` Content Type has this list of entries:
-[headerContent Entries](https://github.com/AmcorPackaging/LiquiForm/wiki/images/headerContentEntries.png)
+  ![headerContent Entries](https://github.com/AmcorPackaging/LiquiForm/wiki/images/headerContentEntries.png)

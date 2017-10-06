@@ -2,7 +2,7 @@ There are 3 types of roles depending on your access level:
 
 - [Editor](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Editor-Usage)
   - Allows editing, publishing and archiving of content.
-    - Editor Preview:
+    - Editor View:
     ![Editor View](https://github.com/AmcorPackaging/LiquiForm/wiki/images/editorView.png)
 
 - [Developer](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Developer-Usage)

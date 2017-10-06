@@ -5,7 +5,7 @@
   - [Roles](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Roles)
   - [Structure](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Structure)
   - [Editor Usage](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Editor-Usage)
-    - [Adding Content](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Adding-Content)
+    - [Access Entry](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Access-Entry)
     - [Updating Content](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Updating-Content)
     - [Preview Web App](https://github.com/AmcorPackaging/LiquiForm/wiki/Preview)
     - [Publishing Content](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Publishing-Content)

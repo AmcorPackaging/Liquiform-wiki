@@ -9,7 +9,8 @@ ____
 ## Content Types:
 A content type consists of a set of fields and other information.
 
-Structure of Our Content Types:
+Structure of Liquiform Content Types:
+
 - headerContent: 
   - page
   - headerTitle

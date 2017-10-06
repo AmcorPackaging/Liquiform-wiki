@@ -1,1 +1,1 @@
-Web App deployed here: [LiquiForm](https://www.liquiformgroup.com)
+Web App deployed here: [LiquiForm](http://www.liquiformgroup.com)

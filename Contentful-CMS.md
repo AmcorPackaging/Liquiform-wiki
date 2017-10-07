@@ -6,4 +6,4 @@ Space Settings:
  - space Id: `k1sf1iwtb07y`
 
 Please contact the project owner to be granted that access. 
-You can find the contact in the [support page](https://github.com/AmcorPackaging/LiquiForm/wiki/Support).
+You can find the contact in the [support page](./Support).

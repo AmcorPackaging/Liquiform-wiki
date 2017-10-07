@@ -5,7 +5,7 @@
   - [Roles](./CMS-Roles)
   - [Structure](./CMS-Structure)
   - [Editor Usage](./CMS-Editor-Usage)
-    - [Content & Media](./CMS-Content-Media)
+    - [Content & Media](./CMS-Content-&-Media)
     - [Add Entry](./CMS-Add-Entry)
     - [Add Asset](./CMS-Add-Asset)
     - [Access Entry](./CMS-Access-Entry)

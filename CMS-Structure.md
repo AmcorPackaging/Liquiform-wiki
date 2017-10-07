@@ -46,9 +46,3 @@ Structure of Liquiform Content Types:
 - aboutContent:
   - page
   - primaryContent
-____
-
-## Content & Entries
-Each Content Type has Content, organized by Entries. For example, the Content Type `headerContent` has this list of entries:
-
-  ![headerContent Entries](https://github.com/AmcorPackaging/LiquiForm/wiki/images/headerContentEntries.png)

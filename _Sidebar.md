@@ -1,18 +1,18 @@
-- [Home](https://github.com/AmcorPackaging/LiquiForm/wiki)
+- [Home](./)
 - [Code Base](./Code-Base)
-  - [Setup](https://github.com/AmcorPackaging/LiquiForm/wiki/setup)
-- [Contentful CMS](https://github.com/AmcorPackaging/LiquiForm/wiki/Contentful-CMS)
-  - [Roles](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Roles)
-  - [Structure](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Structure)
-  - [Editor Usage](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Editor-Usage)
-    - [Access Entry](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Access-Entry)
-    - [Updating Content](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Updating-Content)
-    - [Preview Web App](https://github.com/AmcorPackaging/LiquiForm/wiki/Preview)
-    - [Publishing Content](https://github.com/AmcorPackaging/LiquiForm/wiki/CMS-Publishing-Content)
-- [Tools](https://github.com/AmcorPackaging/LiquiForm/wiki/Tools)
+  - [Setup](./setup)
+- [Contentful CMS](./Contentful-CMS)
+  - [Roles](./CMS-Roles)
+  - [Structure](./CMS-Structure)
+  - [Editor Usage](./CMS-Editor-Usage)
+    - [Access Entry](./CMS-Access-Entry)
+    - [Updating Content](./CMS-Updating-Content)
+    - [Preview Web App](./Preview)
+    - [Publishing Content](./CMS-Publishing-Content)
+- [Tools](./Tools)
   - Basecamp
   - Zapier
   - Netlify
   - Invision
   - Github
-- [Support](https://github.com/AmcorPackaging/LiquiForm/wiki/support)
+- [Support](./support)

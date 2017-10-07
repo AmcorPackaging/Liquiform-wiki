@@ -1,5 +1,11 @@
 ## Content
-Inside this section are the **Entries** containing the data introduced by the _Editors_ to be rendered in our app.
+
+Each **ContentType** has **Content**, organized by **Entries**. 
+
+For example, the Content Type `headerContent` has this list of entries:
+![headerContent Entries](https://github.com/AmcorPackaging/LiquiForm/wiki/images/headerContentEntries.png)
+
+This **Entries** contains the data introduced by the _Editors_ to be rendered in our app.
 Each **Entry** contains one or more **fields**, depending on its configuration.
 In the example the example the **Entry** belongs to the **ContentType "headerContent"**, containing 4 **fields**:
  - page: dropdown menu to choose what page it will be rendered

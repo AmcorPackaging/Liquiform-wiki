@@ -1,6 +1,6 @@
-- [Home](./)
+- [Home](./Home)
 - [Code Base](./Code-Base)
-  - [Setup](./setup)
+  - [Setup](./Setup)
 - [Contentful CMS](./Contentful-CMS)
   - [Roles](./CMS-Roles)
   - [Structure](./CMS-Structure)
@@ -15,4 +15,4 @@
   - Netlify
   - Invision
   - Github
-- [Support](./support)
+- [Support](./Support)

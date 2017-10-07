@@ -1,4 +1,4 @@
-- [Home](./)
+- [Home](./Home)
 - [Code Base](./Code-Base)
   - [Setup](./setup)
 - [Contentful CMS](./Contentful-CMS)

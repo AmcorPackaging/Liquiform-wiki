@@ -1,4 +1,4 @@
-## Type of STATUS
+# Type of STATUS
 
 The _Status_ of an **Entry** or **Asset** indicates whether that content is been **DRAFT**, **PUBLISHED**, **UPDATED**, or **ARCHIVED** 
 
@@ -6,22 +6,22 @@ Examples of diferent _Status_:
 
 ![Status](./images/status.png)
 
-- DRAFT: 
+- ## DRAFT: 
 The content has been created, but not yet published, and is not visible publicly, only in [_PREVIEW MODE_](./CMS-Preview)
 
 ![DRAFT](./images/statusDraft.png)
 
-- PUBLISHED:
+- ## PUBLISHED:
 The content has been published, and now is visible publicly in the [website](http://www.liquiformgroup.com).
 
 ![PUBLISHED](./images/statusPublished.png)
 
-- UPDATED:
+- ## UPDATED:
 The content has been modified, since its creation, but the changes haven't been published. 
 
 ![UPDATED](./images/statusUpdated.png)
 
-- ARCHIVED:
+- ## ARCHIVED:
 The content has been archived, and it's NOT VISIBLE anywhere, only when we filter the list of content by _"Archived"_. 
 
 ![ARCHIVED](./images/statusArchived.png)
@@ -29,7 +29,7 @@ The content has been archived, and it's NOT VISIBLE anywhere, only when we filte
 
 ____
 
-## How to Change STATUS
+# How to Change STATUS
 
 There are 2 ways to change the _Status:
 - Select a single or multiple contents from the list, and click on the available options:

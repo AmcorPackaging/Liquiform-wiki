@@ -3,4 +3,4 @@ While in **Content** Click on the _"Add Entry"_ button and choose the **ContentT
 - Adding Entry:
 ![Adding Entry](./videos/addEntry.gif)
 
-Warning: if you leave a new **Entry** empty, and go back to **Content** that **Entry** will still be created. Remember to [delete](./deleteEntry) it if it's not in use.
+Warning: if you leave a new **Entry** empty, and go back to **Content** that **Entry** will still be created. Remember to [delete it](./deleteEntry) if it's not in use.

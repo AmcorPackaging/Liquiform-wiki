@@ -7,6 +7,7 @@
   - [Editor Usage](./CMS-Editor-Usage)
     - [Content & Media](./CMS-Content-&-Media)
     - [Status](./CMS-Status)
+    - [Versions](./CMS-Versions)
     - [Add Entry](./CMS-Add-Entry)
     - [Add Asset](./CMS-Add-Asset)
     - [Access Entry](./CMS-Access-Entry)

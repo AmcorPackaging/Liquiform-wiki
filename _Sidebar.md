@@ -11,7 +11,7 @@
     - [Access Entry](./CMS-Access-Entry)
     - [Edit Entry](./CMS-Edit-Entry)
     - [Updating Entry](./CMS-Updating-Entry)
-    - [Preview Web App](./Preview)
+    - [Preview Web App](./CMS-Preview)
     - [Publish Content](./CMS-Publish-Content)
     - [Delete Content](./CMS-Delete-Entry)
   - [Developer Usage](./CMS-Developer-Usage)

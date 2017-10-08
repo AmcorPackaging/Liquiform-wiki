@@ -1,0 +1,1 @@
+Warning: if you leave a new **Entry** empty, and go back to **Content** that **Entry** will still be created. Remember to [delete](./deleteEntry) it if it's not in use.

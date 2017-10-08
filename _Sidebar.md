@@ -12,7 +12,6 @@
     - [Add Asset](./CMS-Add-Asset)
     - [Access Entry](./CMS-Access-Entry)
     - [Edit Entry](./CMS-Edit-Entry)
-    - [Updating Entry](./CMS-Updating-Entry)
     - [Preview Web App](./CMS-Preview)
     - [Publish Content](./CMS-Publish-Content)
     - [Delete Content](./CMS-Delete-Entry)

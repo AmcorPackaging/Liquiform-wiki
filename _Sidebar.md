@@ -6,6 +6,7 @@
   - [Structure](./CMS-Structure)
   - [Editor Usage](./CMS-Editor-Usage)
     - [Content & Media](./CMS-Content-&-Media)
+    - [Status](./CMS-Status)
     - [Add Entry](./CMS-Add-Entry)
     - [Add Asset](./CMS-Add-Asset)
     - [Access Entry](./CMS-Access-Entry)

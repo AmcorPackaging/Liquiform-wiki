@@ -27,6 +27,7 @@
     - [Manage Users](./Manage-Users)
     - [Manage Roles](./Manage-Roles)
 - [Tools](./Tools)
+  - Contentful
   - Basecamp
   - Zapier
   - Netlify

@@ -3,6 +3,7 @@
 ### General
 
 ![Space General](./images/spaceGeneral.png)
+____
 
 ### Locales
 
@@ -10,10 +11,12 @@ Every Space has its own set of locales, and each locale is uniquely identified b
 
 ![Space Locales](./images/spaceLocales.png)
 Official docs [here](https://www.contentful.com/developers/docs/concepts/locales/)
+____
 
 ### Users
 
 ![Space Users](./images/spaceUsers.png)
+____
 
 ### Roles
 
@@ -24,15 +27,20 @@ Select "Roles" from the "Settings" menu at the top of the screen (this menu is o
 ![Space Roles](./images/spaceRoles.png)
 LiquiForm roles [here](./CMS-Roles)
 Official docs [here](https://www.contentful.com/r/knowledgebase/roles-and-permissions/)
+____
 
 ### Webhooks
 
 Webhooks extend integration possibilities by notifying you, another person or system when resources have changed by calling a pre-configured HTTP endpoint.
 <https://www.contentful.com/developers/docs/concepts/webhooks/>
+____
 
 ### Content Preview
 
+This setup contains the list of all the content types found in your space, and each of them have an specific URL where to be redirected while [editing an **Entry**](./CMS-Edit_Entry)
 ![Space Preview](./images/spacePreview.png)
+Official docs [here](https://www.contentful.com/r/knowledgebase/setup-content-preview/)
+____
 
 ### Extensions
 

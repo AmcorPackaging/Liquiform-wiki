@@ -20,7 +20,7 @@ ____
 Contentful's Content Management API (CMA) helps you manage content in your spaces.
 Note: You can use the CMA to deliver and manage content, but you shouldn't use it to deliver large amounts of content and instead use the Content Delivery API. The structure of responses from the CMA differs from the CDA as GET responses retrieve the entirety of items (i.e. all localized and unpublished content).
 
-![Content Management API](./image/contentManagement.png)
+![Content Management API](./images/contentManagement.png)
 
 You'll need to generate your own personal tokens in order to use the CMA, for example if you want to develop an extension like the HTML editor we use.
 Contentful provide the info [here](https://www.contentful.com/r/knowledgebase/ui-extensions-guide/)

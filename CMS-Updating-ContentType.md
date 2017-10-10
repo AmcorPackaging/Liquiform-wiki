@@ -6,4 +6,4 @@ This Id identifies the ContentType in our API call to retrieve the data stored i
 
 Also the Fields can be modified, changing the settings, validations or appearance, but the type of Field will remain the same.
 
-To know how to create a ContentType and configure it check this [page](./ContentType)
+To know how to create a ContentType and configure it check this [page](./CMS-Create-ContentType)

@@ -22,11 +22,9 @@
     - [Create ContentType](./CMS-Create-ContentType)
     - [Updating ContentType](./CMS-Updating-ContentType)
     - [Delete ContentType](./CMS-Delete-ContentType)
-    - [Manage Space](./Manage-Space)
-    - [Manage Users](./Manage-Users)
-    - [Manage Roles](./Manage-Roles)
+    - [Space Settings](./CMS-Space-Settings)
 - [Tools](./Tools)
-  - Contentful
+  - [Contentful](./Contentful-CMS)
   - Basecamp
   - Zapier
   - Netlify

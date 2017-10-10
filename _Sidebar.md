@@ -20,7 +20,6 @@
   - [Administrator Usage](./CMS-Admin-Usage)
     - [Content Model](./CMS-Content-Model)
     - [Create ContentType](./CMS-Create-ContentType)
-    - [Field Types](./CMS-Field-Types)
     - [Updating ContentType](./CMS-Updating-ContentType)
     - [Delete ContentType](./CMS-Delete-ContentType)
     - [Manage Space](./Manage-Space)

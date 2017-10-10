@@ -4,7 +4,7 @@ If we want to create a new ContentType, we click in _Add content type_
 
 Then we define the ContentType:
 
-![Content Type](./images.addNewsContentType.png)
+![Content Type](./images/addNewsContentType.png)
 
 The next step is to define what type of information to store for each book in our bookstore. This is done by adding fields.
 
@@ -18,6 +18,6 @@ Then we configure the Settings,Validations, and Appearance that we desire. In th
 ![Validations](./images/newsValidations.png)
 ![Appearance](./images/newsAppearance.png)
 
-And finally, this is the aspect of our ContentType that the [Editors](./CMS-Editors) will use to fill the data.
+And finally, this is the aspect of our ContentType that the [Editors](./CMS-Editor-Usage) will use to fill the data.
 
 ![News ContentType](./images/newsFields.png)

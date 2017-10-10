@@ -1,5 +1,5 @@
 ## APIs
-- In the APIs section you'll have access to the Access Tokens used to deliver the content through the Content Delivery API, and the Preview API:
+In the APIs section you'll have access to the Access Tokens used to deliver the content through the Content Delivery API, and the Preview API:
 
 ![API](./images/apiView.png)
 

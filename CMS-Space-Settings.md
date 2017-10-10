@@ -14,7 +14,12 @@
 
 ### Roles
 
+Creating a new role
+
+Select "Roles" from the "Settings" menu at the top of the screen (this menu is only available to space administrators). Find a role in the list that is similar to the role you'd like to create, click "…", and select "Duplicate role". On this new screen you can customize the rules that will apply to users who are assigned this role.
+
 ![Space Roles](./images/spaceRoles.png)
+Official docs [here](https://www.contentful.com/r/knowledgebase/roles-and-permissions/)
 
 ### Webhooks
 

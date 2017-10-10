@@ -26,6 +26,7 @@ Select "Roles" from the "Settings" menu at the top of the screen (this menu is o
 
 ![Space Roles](./images/spaceRoles.png)
 LiquiForm roles [here](./CMS-Roles)
+
 Official docs [here](https://www.contentful.com/r/knowledgebase/roles-and-permissions/)
 ____
 
@@ -37,7 +38,8 @@ ____
 
 ### Content Preview
 
-This setup contains the list of all the content types found in your space, and each of them have an specific URL where to be redirected while [editing an **Entry**](./CMS-Edit_Entry)
+This setup contains the list of all the content types found in your space, and each of them have an specific URL where to be redirected while [editing an **Entry**](./CMS-Edit-Entry)
+
 ![Space Preview](./images/spacePreview.png)
 Official docs [here](https://www.contentful.com/r/knowledgebase/setup-content-preview/)
 ____

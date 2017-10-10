@@ -17,7 +17,7 @@
     - [Delete Content](./CMS-Delete-Entry)
   - [Developer Usage](./CMS-Developer-Usage)
     - [Manage API keys](./CMS-API)
-  - [Administrator Usage](./CMS-Developer-Usage)
+  - [Administrator Usage](./CMS-Admin-Usage)
     - [Content Model](./CMS-Content-Model)
     - [Create ContentType](./CMS-Create-ContentType)
     - [Field Types](./CMS-Field-Types)

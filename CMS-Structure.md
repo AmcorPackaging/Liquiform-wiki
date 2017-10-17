@@ -9,21 +9,25 @@ ____
 ## Content Types:
 A content type consists of a set of fields and other information.
 
-Structure of Liquiform Content Types:
+Structure of LiquiForm Content Types:
 
+### Home
 ![Home](./images/artboardHome.png)
-
+### How it Works
 ![How It Works](./images/artboardHowItWorks.png)
-
+### FAQ
 ![FAQ](./images/artboardFaq.png)
-
+### News
 ![News](./images/artboardNews.png)
-
+### News Item
 ![News Item](./images/artboardNewsItem.png)
-
+### About Us
 ![About US](./images/artboardAboutUs.png)
-
+### Contact
 ![Contact](./images/artboardContact.png)
+_____
+
+### Schema
 
 - logo:
   - image:

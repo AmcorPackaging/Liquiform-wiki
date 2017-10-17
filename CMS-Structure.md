@@ -11,7 +11,23 @@ A content type consists of a set of fields and other information.
 
 Structure of Liquiform Content Types:
 
-- headerContent: 
+![Home](./images/artboardHome.png)
+
+![How It Works](./images/artboardHowItWorks.png)
+
+![FAQ](./images/artboardFaq.png)
+
+![News](./images/artboardNews.png)
+
+![News Item](./images/artboardNewsItem.png)
+
+![About US](./images/artboardAboutUs.png)
+
+![Contact](./images/artboardContact.png)
+
+- logo:
+  - image:
+- headerContent:
   - page
   - headerTitle
   - headerContent

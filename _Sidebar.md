@@ -10,6 +10,7 @@
     - [Versions](./CMS-Versions)
     - [Add Entry](./CMS-Add-Entry)
     - [Add Asset](./CMS-Add-Asset)
+    - [Add Asset within Entry](./CMS-Add-Asset-Within-Entry)
     - [Access Entry](./CMS-Access-Entry)
     - [Edit Entry](./CMS-Edit-Entry)
     - [Preview Web App](./CMS-Preview)

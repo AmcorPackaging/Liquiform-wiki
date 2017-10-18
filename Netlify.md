@@ -12,9 +12,10 @@ You can find the directory [here](./Support).
 
 We use 2 different sites, that shares the same Codebase. This allows the editors to have a full updated site while checking the content that is being updated in Contentful.
 
-[LiquiForm Production Site](https://app.netlify.com/sites/liquiform-dev-2017):
+LiquiForm Production Site: https://app.netlify.com/sites/liquiform-dev-2017
   - This is the link to the app that is render publicly. Only the content published is shown here.
-[LiquiForm Preview Site](https://app.netlify.com/sites/liquiform-preview-2017)
+
+LiquiForm Preview Site: https://app.netlify.com/sites/liquiform-preview-2017
   - This is the link to the app that renders all the content stored in Contentful, including the unpublished content.
 
 ____

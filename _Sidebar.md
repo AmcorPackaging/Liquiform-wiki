@@ -26,9 +26,9 @@
     - [Space Settings](./CMS-Space-Settings)
 - [Tools](./Tools)
   - [Contentful](./Contentful-CMS)
-  - Basecamp
-  - Zapier
-  - Netlify
-  - Invision
-  - Github
+  - [Basecamp](./Basecamp)
+  - [Zapier](./Zapier)
+  - [Netlify](./Netlify)
+  - [Invision](./Invision)
+  - [Github](./Github)
 - [Support](./Support)

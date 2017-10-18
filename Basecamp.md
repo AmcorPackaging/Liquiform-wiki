@@ -2,7 +2,7 @@
 
 We use [Basecamp](https://basecamp.com) as Project Management & Team Communication Software.
 
-To be granted access to the Project or Team, please contact the Project Owner. You can find the directory [here](./Support.md).
+To be granted access to the Project or Team, please contact the Project Owner. You can find the directory [here](./Support).
 
 This is a intern guide for the usage of Amcor projects, if you need info about basic usage of the app, please refer to the offcial documentation: [Basecamp - How it works](https://basecamp.com/how-it-works)
 

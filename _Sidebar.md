@@ -29,6 +29,5 @@
   - [Basecamp](./Basecamp)
   - [Zapier](./Zapier)
   - [Netlify](./Netlify)
-  - [Invision](./Invision)
   - [Github](./Github)
 - [Support](./Support)

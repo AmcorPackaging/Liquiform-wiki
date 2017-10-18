@@ -67,3 +67,11 @@ ____
   - Create the key `REACT_APP_PREVIEW` and set the value `TRUE`. This will allow our Codebase to trigger the preview site when needed.
 
 ![Setup Production](./images/netlifySetupPrev.png)
+
+### Continuous Integration with Github
+
+When a `PR` is created, if the setup is done correctly Netlify will create a check on the `PR` and access to a **Deployment Preview** link.
+
+Warning: Don't merge any `PR` if some check is failing.
+
+![Netlify Github](./images/netlifyGithub.png)
